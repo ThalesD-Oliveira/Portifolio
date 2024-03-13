@@ -7,7 +7,8 @@
   font-size: 16px;
   line-height: 1.6;
   font-weight: 300;
-  margin-top: 21px;
+  margin-top: 10px;
+  max-width: 99%;
 }
 
 .about p a {

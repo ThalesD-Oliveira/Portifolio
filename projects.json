@@ -1,55 +1,68 @@
 [
   {
+    "name": "Code connect",
+    "image": "assets/Code connect.png",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Vite"],
+    "link": "https://github.com/ThalesD-Oliveira/connectcode"
+  },
+  {
     "name": "Guardiões da Galáxia",
     "image": "assets/Guardioes-da-Galaxia.png",
     "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/ThalesDiasdeOliveira/Guardioes-da-galaxia"
+    "link": "https://github.com/ThalesD-Oliveira/GuardioesDaGalaxia"
   },
   {
     "name": "Seleção de personagens One Piece",
     "image": "assets/one-piece.png",
     "tags": ["JavaScript", "HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/One-Piece"
+    "link": "https://github.com/ThalesD-Oliveira/OnePiece"
   },
   {
     "name": "Seleção de personagens X-men",
     "image": "assets/x-men.png",
     "tags": ["JavaScript", "HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/X-men/tree/main"
+    "link": "https://github.com/ThalesD-Oliveira/X-men"
   },
   {
     "name": "Super Mario Bros. - O Filme",
     "image": "assets/Mario.png",
     "tags": ["JavaScript", "HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/Mario"
+    "link": "https://github.com/ThalesD-Oliveira/MarioOFilme"
   },
 
   {
     "name": "Culturama",
     "image": "assets/culturama.png",
     "tags": ["HTML", "CSS", "Responsivo"],
-    "link": "https://github.com/ThalesDiasdeOliveira/Culturama"
+    "link": "https://thalesd-oliveira.github.io/Culturama/"
+  },
+
+  {
+    "name": "Meteora",
+    "image": "assets/Meteora.png",
+    "tags": ["HTML", "CSS", "Responsivo"],
+    "link": "https://github.com/ThalesD-Oliveira/Meteora"
   },
   
   {
     "name": "Barbie - O Filme",
     "image": "assets/Barbie.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/site-barbie"
+    "link": "https://github.com/ThalesD-Oliveira/BarbieOFilme"
   },
 
   {
     "name": "Frontend Mentor Challange - NFT preview card",
     "image": "assets/Frontendmentor.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/NFT-Card"
+    "link": "https://github.com/ThalesD-Oliveira/FM-NFTCard"
   },
 
   {
     "name": "Alura Plus",
     "image": "assets/alura-plus.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/Aluraplus"
+    "link": "https://github.com/ThalesD-Oliveira/Aluraplus"
   },
 
   {
@@ -60,9 +73,9 @@
   },
 
   {
-    "name": "Barbearia Alura",
-    "image": "assets/barbearia-alura.png",
+    "name": "Mini portifolio",
+    "image": "assets/Mini portifolio.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesDiasdeOliveira/BarbeariaAlura"
+    "link": "https://github.com/ThalesD-Oliveira/Mini-portifolio"
   }
 ]
