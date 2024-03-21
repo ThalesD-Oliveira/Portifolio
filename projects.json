@@ -1,5 +1,18 @@
 [
   {
+    "name": "Formulário de contato",
+    "image": "assets/Contact-form.png",
+    "tags": ["PHP", "JavaScript", "Responsivo", "HTML", "CSS"],
+    "link": "https://github.com/ThalesD-Oliveira/ContactForm"
+  },
+  {
+    "name": "Clone Disney Plus",
+    "image": "assets/Disney-plus.png",
+    "tags": ["JavaScript", "API", "HTML", "CSS"],
+    "link": "https://github.com/ThalesD-Oliveira/DisneyPlusClone"
+  },
+ 
+  {
     "name": "Code connect",
     "image": "assets/Code connect.png",
     "tags": ["Vite", "React", "JavaScript", "HTML", "CSS"],
@@ -38,13 +51,11 @@
     "link": "https://github.com/ThalesD-Oliveira/MarioOFilme"
   },
 
-  
-  
   {
     "name": "Culturama",
     "image": "assets/culturama.png",
     "tags": ["Responsivo", "HTML", "CSS"],
-    "link": "https://thalesd-oliveira.github.io/Culturama/"
+    "link": "https://github.com/ThalesD-Oliveira/Culturama"
   },
 
   {
@@ -66,6 +77,13 @@
     "image": "assets/alura-plus.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/Aluraplus"
+  },
+
+  {
+    "name": "Rocket Animation",
+    "image": "assets/Rocket-animation.png",
+    "tags": ["CSS"],
+    "link": "https://github.com/ThalesD-Oliveira/RocketAnimation"
   },
 
   {
