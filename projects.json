@@ -25,13 +25,13 @@
     "link": "https://github.com/ThalesD-Oliveira/GuardioesDaGalaxia"
   },
   {
-    "name": "Seleção de personagens One Piece",
+    "name": "One Piece",
     "image": "assets/one-piece.png",
     "tags": ["JavaScript", "Responsivo", "HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/OnePiece"
   },
   {
-    "name": "Seleção de personagens X-men",
+    "name": "X-men",
     "image": "assets/x-men.png",
     "tags": ["JavaScript", "Responsivo", "HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/X-men"
@@ -66,7 +66,7 @@
   },
 
   {
-    "name": "Frontend Mentor Challange - NFT preview card",
+    "name": "NFT preview card",
     "image": "assets/Frontendmentor.png",
     "tags": ["Responsivo", "HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/FM-NFTCard"
@@ -87,7 +87,7 @@
   },
 
   {
-    "name": "Página de vendas - Comunidade de idiomas",
+    "name": "Página de vendas",
     "image": "assets/Comunidade.png",
     "tags": ["Wordpress", "Responsivo"],
     "link": "https://comunidadeoliveira.com.br/acesso/"
