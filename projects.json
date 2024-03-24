@@ -73,10 +73,10 @@
   },
 
   {
-    "name": "Alura Plus",
-    "image": "assets/alura-plus.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesD-Oliveira/Aluraplus"
+    "name": "Número Secreto",
+    "image": "assets/numerosecreto.png",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "link": "https://github.com/ThalesD-Oliveira/numeroSecreto"
   },
 
   {
@@ -94,7 +94,7 @@
   },
 
   {
-    "name": "Mini portifolio",
+    "name": "Site de Apresentação",
     "image": "assets/Mini portifolio.png",
     "tags": ["HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/Mini-portifolio"
