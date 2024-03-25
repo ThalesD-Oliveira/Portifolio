@@ -1,22 +1,32 @@
 .certificates-father {
   display: flex;
-  flex-direction: column;  
-  width: 280px;
+  align-items: center;
+  height: 280px;
   transition: all 0.4s;
+}
+
+.certificate {
+  margin-right: 2rem;
+
 }
 
 .certificates-father img {
+  height:  100%;
   transition: all 0.4s;
 }
 
-.certificates-father:hover {
-  color: var(--link)
+.imagem-texto {
+  margin-right: 3rem;
 }
 
+.imagem-texto:hover {
+  color: var(--link)
+
+}
 .certificates {
   margin-top: 16px;
   width: 280px;
-  box-shadow: 2px 2px 2px rgba(0,0,0,0.09);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.15);
   border-radius: 8px;
 }
 
