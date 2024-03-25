@@ -1,5 +1,6 @@
 .certificates-father {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   height: 280px;
   transition: all 0.4s;
