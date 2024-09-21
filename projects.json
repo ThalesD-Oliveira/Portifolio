@@ -1,5 +1,12 @@
 [
   {
+    "name": "Projeto Focus",
+    "image": "assets/focus.png",
+    "tags": ["JavaScript", "HTML", "CSS"],
+    "link": "https://thalesd-oliveira.github.io/focus/"
+  },
+
+  {
     "name": "Formulário de contato",
     "image": "assets/Contact-form.png",
     "tags": ["PHP", "JavaScript", "Responsivo", "HTML", "CSS"],
@@ -11,7 +18,7 @@
     "tags": ["JavaScript", "API", "HTML", "CSS"],
     "link": "https://github.com/ThalesD-Oliveira/DisneyPlusClone"
   },
- 
+
   {
     "name": "Code connect",
     "image": "assets/Code connect.png",
@@ -91,12 +98,5 @@
     "image": "assets/Comunidade.png",
     "tags": ["Wordpress", "Responsivo"],
     "link": "https://comunidadeoliveira.com.br/acesso/"
-  },
-
-  {
-    "name": "Site de Apresentação",
-    "image": "assets/Mini portifolio.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/ThalesD-Oliveira/Mini-portifolio"
   }
 ]
